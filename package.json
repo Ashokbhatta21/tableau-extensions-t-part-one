@@ -6,5 +6,9 @@
   "repository": "https://github.com/Ashokbhatta21/tableau-extensions-t-part-one",
   "author": "Ashokbhatta21",
   "license": "HS",
-  "private": null
+  "private": null,
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0"
+  }
 }
