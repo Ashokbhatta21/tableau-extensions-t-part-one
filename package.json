@@ -1,0 +1,10 @@
+{
+  "name": "Tab-Ext-part-1",
+  "version": "1.0.0",
+  "description": "Tableau Extension",
+  "main": "index.js",
+  "repository": "https://github.com/Ashokbhatta21/tableau-extensions-t-part-one",
+  "author": "Ashokbhatta21",
+  "license": "HS",
+  "private": null
+}
